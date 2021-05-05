@@ -1,2 +1,2 @@
 # Resources
-Random resources I find cool
+*These are random resources I find useful.
